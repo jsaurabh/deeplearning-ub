@@ -7,5 +7,4 @@ The network was trained on a pre-trained resnet34 model using transfer learning
 
 ## Deployment
 
-The model has been deployed using [Render](https://render.com) and the example code from [here](https://github.com/render-examples/fastai-v3)
-
+The model has been deployed as a Flask [webapp]() on Heroku
