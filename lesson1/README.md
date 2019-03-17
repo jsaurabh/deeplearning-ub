@@ -1,0 +1,1 @@
+CancerNet on the Kaggle IDC Breast Cancer dataset using fastai resnet34
